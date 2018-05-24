@@ -48,3 +48,7 @@ export PS1="\$(nightscout-ps1) $ "
 Be sure to add further customizations to your `$PS1` from there!
 
 [daemon]: https://github.com/TooTallNate/nightscout-ps1-daemon
+
+### Windows
+
+Looking for the Windows version that was mentioned on [Scott Hanselman's blog](https://www.hanselman.com/blog/VisualizingYourRealtimeBloodSugarValuesANDAGitPromptOnWindowsPowerShellAndLinuxBash.aspx)? For now use [version 1.1.4](https://github.com/TooTallNate/nightscout-ps1/tree/1.1.4) here and those instructions will work.
